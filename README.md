@@ -9,4 +9,6 @@ Here I completed projects using Supervised Machine Learning ,UnSupervised Machin
 6.  Random Forest,
 7. K-means clustering
 8. Recommendation Systems
-9.  Deep Learning
+9.  Deep Learning- Tensor Flow
+10.  Keras Regression
+11.  Keras Classification
