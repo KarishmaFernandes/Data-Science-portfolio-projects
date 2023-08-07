@@ -13,4 +13,5 @@ Here I completed projects using Supervised Machine Learning ,UnSupervised Machin
 10.  Keras Regression
 11.  Keras Classification
 12.  Sentiment Analysis-NLP
-13.  Time Series Data Aalysis
+13.  Time Series Exploratory  Data Aalysis-Stock Price
+14.  Time Series Data Cleaning- Beer Production in Australia
