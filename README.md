@@ -15,3 +15,4 @@ Here I completed projects using Supervised Machine Learning ,UnSupervised Machin
 12.  Sentiment Analysis-NLP
 13.  Time Series Exploratory  Data Aalysis-Stock Price
 14.  Time Series Data Cleaning- Beer Production in Australia
+15. Time series Analysis of stock prices using facebook prophet
