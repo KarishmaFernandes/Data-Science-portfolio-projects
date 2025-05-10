@@ -16,3 +16,4 @@ Here I completed projects using Supervised Machine Learning ,UnSupervised Machin
 13.  Time Series Exploratory  Data Aalysis-Stock Price
 14.  Time Series Data Cleaning- Beer Production in Australia
 15. Time series Analysis of stock prices using facebook prophet
+16. Transfer Learning-VGG16,MobileNet, ResNet 50,ImageNet
